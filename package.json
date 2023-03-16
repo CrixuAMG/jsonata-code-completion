@@ -1,5 +1,5 @@
 {
-  "name": "jsonata-code-completion",
+  "name": "@crixu/jsonata-code-completion",
   "version": "0.0.1",
   "description": "jsonata code completion",
   "main": "start.js",
@@ -27,9 +27,9 @@
   "dependencies": {
     "express": "^4.16.4",
     "json-schema-deref-sync": "^0.14.0",
-    "jsonata": "^1.8.4",
+    "jsonata": "^2.0.2",
     "lodash": "^4.17.20",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.1",
     "tape": "^5.1.1"
   },
   "devDependencies": {
@@ -37,7 +37,7 @@
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
     "babel-plugin-transform-commonjs-es2015-modules": "^4.0.1",
-    "browserify": "^16.2.3",
-    "monaco-editor": "^0.16.2"
+    "browserify": "^17.0.0",
+    "monaco-editor": "^0.36.1"
   }
 }
