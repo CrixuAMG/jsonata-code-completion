@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allam76/jsonata-code-completion.git"
+    "url": "git+https://github.com/crixuamg/jsonata-code-completion.git"
   },
   "keywords": [
     "jsonata",
@@ -21,9 +21,9 @@
   "author": "martin jonsson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/allam76/jsonata-code-completion/issues"
+    "url": "https://github.com/crixuamg/jsonata-code-completion/issues"
   },
-  "homepage": "https://github.com/allam76/jsonata-code-completion#readme",
+  "homepage": "https://github.com/crixuamg/jsonata-code-completion#readme",
   "dependencies": {
     "express": "^4.16.4",
     "json-schema-deref-sync": "^0.14.0",
